@@ -135,3 +135,10 @@ C:\Study\TodoAppApi\obj\Debug\net8.0\refint\TodoAppApi.dll
 C:\Study\TodoAppApi\obj\Debug\net8.0\TodoAppApi.pdb
 C:\Study\TodoAppApi\obj\Debug\net8.0\TodoAppApi.genruntimeconfig.cache
 C:\Study\TodoAppApi\obj\Debug\net8.0\ref\TodoAppApi.dll
+C:\Study\TodoAppApi\obj\Debug\net8.0\TodoAppApi.sourcelink.json
+C:\Study\TodoAppApi\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Study\TodoAppApi\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Study\TodoAppApi\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Study\TodoAppApi\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Study\TodoAppApi\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Study\TodoAppApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
